@@ -68,6 +68,10 @@ span {
   letter-spacing: 1px;
 }
 
+a:hover, a:visited {
+  text-decoration: none;
+}
+
 .img-fluid {
   height: 60px;
   margin-bottom: 30px;
